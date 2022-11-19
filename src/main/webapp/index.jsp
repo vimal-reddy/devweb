@@ -1,5 +1,5 @@
 <html>
 <body>
-  <marquee width=%50% behavior="alternate"<font size ="17" color="green">THIS IS VIMAL!</font></marquee>
+  <marquee width=%50% behavior="alternate"<font size ="30" color="green">THIS IS VIMAL!</font></marquee>
 </body>
 </html>
