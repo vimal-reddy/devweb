@@ -1,6 +1,6 @@
 <html>
 <body>
-  <marquee behavior="alternate"<style="color:blue;font-size:30px;>AWS DEVOPS JOB DEVOPS ENGINEER!</font></marquee>
+  <marquee behavior="alternate"<color:blue;font-size:30px;>AWS DEVOPS JOB DEVOPS ENGINEER!</font></marquee>
 </body>
 </html>
 <!DOCTYPE html>
