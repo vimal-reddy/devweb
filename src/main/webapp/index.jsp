@@ -10,7 +10,7 @@
       </head>    
       <body>      
          <marquee h1 behavior="alternate" style="color:red;font-size:40px;">BUILD AND RELEASE ENGINEER</h1></font></marquee>      
-         <p marquee behavior="alternate" style="color:blue;font-size:30px;">THIS IS VIMAL</p></font></marquee>
-        <p marquee behavior="alternate" style="color:blue;font-size:30px;">DEVOPS ENGINEER</p> </font></marquee>
+         <marquee p behavior="alternate" style="color:blue;font-size:30px;">THIS IS VIMAL</p></font></marquee>
+        <marquee p behavior="alternate" style="color:blue;font-size:30px;">DEVOPS ENGINEER</p> </font></marquee>
       </body>
 </html>
