@@ -31,16 +31,25 @@
     </dependency>
   </dependencies>
 
-  </dependencies>
+	</dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-deploy-plugin -->
+    <dependency>
+       <groupId>org.apache.maven.plugins</groupId>
+       <artifactId>maven-deploy-plugin</artifactId>
+       <version>3.6.8</version>
+    </dependency>
+ 
+</dependencies>
    <distributionManagement>
       <snapshotRepository>
         <id>nexus</id>
         <name>devwb</name>
-		<url>http://3.111.187.228:8081/repository/testrepo/</url>
+		<url>http://15.207.19.130:8081/</url>
       </snapshotRepository>
       <repository>
         <id>nexus</id>
-        <name>devopsmarkonda</name>
+        <name>devweb</name>
 		<url>http://3.111.187.228:8081/repository/testrepo/</url>
       </repository>
 	 </distributionManagement>
