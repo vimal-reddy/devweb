@@ -31,7 +31,24 @@
     </dependency>
   </dependencies>
 
-  <build>
+  </dependencies>
+   <distributionManagement>
+      <snapshotRepository>
+        <id>nexus</id>
+        <name>devwb</name>
+		<url>http://3.111.187.228:8081/repository/testrepo/</url>
+      </snapshotRepository>
+      <repository>
+        <id>nexus</id>
+        <name>devopsmarkonda</name>
+		<url>http://3.111.187.228:8081/repository/testrepo/</url>
+      </repository>
+	 </distributionManagement>
+  
+ 
+
+
+<build>
     <finalName>devos</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
