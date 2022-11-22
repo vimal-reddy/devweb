@@ -29,12 +29,12 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
-   </dependency>
-  </dependencies>
+  
+	  </dependency>
+  
+	</dependencies>
 
-	</dependency>
-
-    <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-deploy-plugin -->
+  <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-deploy-plugin -->
     <dependency>
        <groupId>org.apache.maven.plugins</groupId>
        <artifactId>maven-deploy-plugin</artifactId>
