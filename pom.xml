@@ -20,7 +20,8 @@
     <sonar.host.url>http://15.206.148.149:9000/</sonar.host.url>
     <sonar.login>admin</sonar.login>
     <sonar.password>admin</sonar.password>
-   </properties>
+   
+	</properties>
 
   <dependencies>
     <dependency>
@@ -28,7 +29,7 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
-    </dependency>
+   </dependency>
   </dependencies>
 
 	</dependency>
