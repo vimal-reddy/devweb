@@ -28,23 +28,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
-  </dependencies>
-   <distributionManagement>
-      <snapshotRepository>
-        <id>nexus</id>
-        <name>devopsmarkonda</name>
-		<url>http://35.154.195.105:8081/repository/DecemberREPO/</url>
-      </snapshotRepository>
-      <repository>
-        <id>nexus</id>
-        <name>devopsmarkonda</name>
-		<url>http://35.154.195.105:8081/repository/DecemberREPO/</url>
-      </repository>
-	
-   </distributionManagement>
-  
-  
+    
      <build>
     <finalName>webapp</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
