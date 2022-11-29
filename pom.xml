@@ -35,6 +35,22 @@
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.1.0</version>
+        
+   </dependencies>
+    <distributionManagement>
+      <snapshotRepository>
+        <id>nexus</id>
+        <name>devopsmarkonda</name>
+		<url>http://13.233.163.252:8081/repository/DecemberREPO/</url>
+      </snapshotRepository>
+      <repository>
+        <id>nexus</id>
+        <name>devopsmarkonda</name>
+		<url>http://13.233.163.252:8081/repository/DecemberREPO/</url>
+      </repository>
+	
+   </distributionManagement>
+                 
         </plugin>
         <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
         <plugin>
