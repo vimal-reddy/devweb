@@ -42,7 +42,7 @@
       </repository>
 	
    </distributionManagement>
-  
+  </dependencies>
   
   <build>
     <finalName>webapp</finalName>
