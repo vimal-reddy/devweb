@@ -28,7 +28,6 @@
     </dependency>
   </dependencies>
 
-  </dependencies>
    <distributionManagement>
       <snapshotRepository>
         <id>nexus</id>
@@ -40,9 +39,7 @@
         <name>devopsmarkonda</name>
 		<url>http://3.111.187.228:8081/repository/testrepo/</url>
       </repository>
-	
-   </distributionManagement>
-  </dependencies>
+    </distributionManagement>
   
   <build>
     <finalName>webapp</finalName>
