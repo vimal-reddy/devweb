@@ -26,13 +26,14 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-
+  
+	
+</dependencies>
    <distributionManagement>
       <snapshotRepository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://65.0.110.134:8081/repository/DecemberREPO/</url>
+			<url>http://65.0.110.134:8081/repository/DecemberREPO/</url>
       </snapshotRepository>
       <repository>
         <id>nexus</id>
