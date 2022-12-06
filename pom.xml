@@ -32,12 +32,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://3.110.204.114:8081/repository/DecemberREPO/</url>
+		<url>http://65.0.110.134:8081/repository/DecemberREPO/</url>
       </snapshotRepository>
       <repository>
         <id>nexus</id>
         <name>devopsmarkonda</name>
-		<url>http://3.110.204.114:8081/repository/DecemberREPO/</url>
+		<url>http://65.0.110.134:8081/repository/DecemberREPO/</url>
       </repository>
     </distributionManagement>
   
